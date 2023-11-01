@@ -1,5 +1,5 @@
 import React from "react"
-import YAMLData from "../../content/My-YAML-Content.yaml"
+import YAMLData from "../../content/my.yaml"
 
 const YAMLbuildtime = () => (
   <div style={{ maxWidth: `960px`, margin: `1.45rem` }}>

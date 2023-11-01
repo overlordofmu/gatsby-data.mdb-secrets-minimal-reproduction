@@ -7,7 +7,4 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
-  flags: {
-    LMDB_STORE: true
-  },
 }
